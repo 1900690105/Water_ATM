@@ -247,9 +247,8 @@ User Registration → Wallet Top-up → Water Purchase
 - Add comprehensive comments
 - Test thoroughly before submitting
 
-## 📄 License
-
-This project is open source. Feel free to use, modify, and distribute according to your needs.
+## 📄 Demo Video
+- [click here] (https://drive.google.com/drive/folders/1EEwAOUW2dJiswSwG14PacB48wHzEm_B9?usp=sharing)
 
 ## 🔗 Related Projects
 
