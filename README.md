@@ -249,7 +249,7 @@ User Registration → Wallet Top-up → Water Purchase
 
 
 ### 🎥 Project Demo
-[Click here to watch the demo video] (https://drive.google.com/drive/folders/1EEwAOUW2dJiswSwG14PacB48wHzEm_B9?usp=sharing)
+![Click here to watch the demo video] (https://drive.google.com/drive/folders/1EEwAOUW2dJiswSwG14PacB48wHzEm_B9?usp=sharing)
 
 
 ## 🔗 Related Projects
