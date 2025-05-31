@@ -247,8 +247,10 @@ User Registration → Wallet Top-up → Water Purchase
 - Add comprehensive comments
 - Test thoroughly before submitting
 
-## 📄 Demo Video
-- [click here] (https://drive.google.com/drive/folders/1EEwAOUW2dJiswSwG14PacB48wHzEm_B9?usp=sharing)
+
+### 🎥 Project Demo
+[Click here to watch the demo video] (https://drive.google.com/drive/folders/1EEwAOUW2dJiswSwG14PacB48wHzEm_B9?usp=sharing)
+
 
 ## 🔗 Related Projects
 
